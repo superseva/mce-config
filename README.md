@@ -1,4 +1,6 @@
 # mce-config
-Foundry VTT MCE toolbar options
+Adding MCE toolbar options
 
-Adding Font Size, Font Color and Background Color into MCE Toolbar
+- Font Size
+- Font Color
+- Background Color

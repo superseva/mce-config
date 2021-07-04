@@ -2,7 +2,7 @@
 	"name": "mce-config",
 	"title": "TinyMCE toolbar config",
 	"description": "Adding font, color, size and background color to MCE Toolbar",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.8.8",
 	"author": "HappySteve",
